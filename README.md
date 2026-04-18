@@ -73,11 +73,11 @@ Relief.Ops uses AI (Google Gemini) to:
 
 ## Demo
 
-Live MVP:
-👉 https://community-insight-engine--rakshachahar336.replit.app
+Live MVP:  
+👉 [Open Relief.Ops](https://community-insight-engine--rakshachahar336.replit.app)
 
-Demo Prototype Video:
-👉 https://drive.google.com/file/d/1j6Vfd2jQDL7hrNPye2W4yxWI5AcW85gx/view?usp=sharing
+Demo Prototype Video:  
+👉 [Watch Demo](https://drive.google.com/file/d/1j6Vfd2jQDL7hrNPye2W4yxWI5AcW85gx/view?usp=sharing)
 ---
 
 ## Note
